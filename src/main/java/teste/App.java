@@ -8,6 +8,7 @@ public class App {
 		
 		Map<String, String> path = System.getenv();
 		System.out.println(">>>>>>>> este é o diretório : " +path.get("HOME"));
+		System.out.println(">>>>>> valeu!!!!");
 
 	}
 
